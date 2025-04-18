@@ -18,7 +18,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Code Craft",
+  title: "Dev Craft",
   description: "Share and run code snippets",
 };
 

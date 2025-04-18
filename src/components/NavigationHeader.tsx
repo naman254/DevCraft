@@ -1,3 +1,4 @@
+
 import HeaderProfileBtn from "@/app/(root)/_components/HeaderProfileBtn";
 import { SignedOut } from "@clerk/nextjs";
 import { Blocks, Code2, Sparkles } from "lucide-react";
@@ -28,7 +29,7 @@ function NavigationHeader() {
                   className="block text-lg font-semibold bg-gradient-to-r
                  from-blue-400 via-blue-300 to-purple-400 text-transparent bg-clip-text"
                 >
-                  CodeCraft
+                  DevCraft
                 </span>
                 <span className="block text-xs text-blue-400/60 font-medium">
                   Interactive Code Editor
